@@ -190,7 +190,7 @@ display: none;
     margin-left: 10px; /* Espacio entre los botones */
   }
   body {
-    background-image: url('im age.jpg'); /* Cambia 'nombre-de-tu-imagen.jpg' por el nombre de tu imagen y su extensión. */
+    background-image: url('image.jpg'); /* Cambia 'nombre-de-tu-imagen.jpg' por el nombre de tu imagen y su extensión. */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
